@@ -1,4 +1,4 @@
-export type CoffeType = {
+export type CoffeeType = {
     id: number;
     name: string;
     subTitle: string;

@@ -1,7 +1,7 @@
 import { Button, Card, Rate, Tag } from 'antd';
 import './App.css';
 import { ShoppingCartOutlined } from '@ant-design/icons';
-import { useCoffeeStore } from './model/coffeStore';
+import { useCoffeeStore } from './model/coffeeStore';
 import { useEffect } from 'react';
 
 function App() {
